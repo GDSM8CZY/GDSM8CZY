@@ -1,4 +1,4 @@
 # Hello!
-- I am GDSM8CZY
+- I am Adi
 - Like learning many different computer science topics
 - I'm working on getting into game development
